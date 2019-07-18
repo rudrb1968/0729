@@ -1,0 +1,23 @@
+\t (00:00:08) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:08)     Journal start - Thu Jul 18 15:05:32 2019
+\t (00:00:08)         Host=USER-PC User=user Pid=5936 CPUs=4
+\t (00:00:08) CmdLine= C:\Users\user\Desktop\vscode_orcad\cdns\cdns\tools\pcb\bin\allegro.exe -orcad -mpssession user C:\USERS\USER\DESKTOP\EXAM\AVRUSB500\allegro\AVRUSB500.brd
+\t (00:00:08) 
+   (00:00:08) ilinit Start.
+   (00:00:08) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:09) Opening existing design...
+\d (00:00:09) Design opened: C:/USERS/USER/DESKTOP/EXAM/AVRUSB500/allegro/AVRUSB500.brd
+\i (00:00:09) trapsize 25641
+\i (00:00:09) trapsize 24531
+\i (00:00:09) trapsize 25836
+\i (00:00:09) trapsize 27070
+\i (00:00:09) trapsize 19451
+\i (00:00:09) trapsize 19451
+\i (00:00:10) generaledit 
+\i (00:00:13) trapsize 9189
+\i (00:00:56) trapsize 19451
+\i (00:00:59) open 
+\i (00:01:02) fillin "micro_usb.brd"
+\t (00:01:02) Opening existing design...
+\i (00:01:02) trapsize 4597
+\t (00:01:03)     Journal end - Thu Jul 18 15:06:27 2019
