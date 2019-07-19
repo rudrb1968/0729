@@ -1,0 +1,1300 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : micro_usb.brd                                 )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Fri Jul 19 12:48:04 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                5.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+================================================================
+     PROCESSING FILM < AutoSilkT >
+     TO FILE < c:/Users/user/Desktop/exam/avrusb500/allegro/gerber/AutoSilkT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (374.7000 227.2000)
+           ... ignored.
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20300                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+
+     AutoSilkT created with warnings
+
+
+================================================================
+     PROCESSING FILM < AutoSilkB >
+     TO FILE < c:/Users/user/Desktop/exam/avrusb500/allegro/gerber/AutoSilkB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20300                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+
+     AutoSilkB created with warnings
+
+
+================================================================
+     PROCESSING FILM < MetalB >
+     TO FILE < c:/Users/user/Desktop/exam/avrusb500/allegro/gerber/MetalB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     MetalB created with warnings
+
+
+================================================================
+     PROCESSING FILM < MetalT >
+     TO FILE < c:/Users/user/Desktop/exam/avrusb500/allegro/gerber/MetalT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  RECTANGLE  0.40000     x 1.70000      90.000 NO     DARK 
+  RECTANGLE  1.10010     x 1.70000      90.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690       0.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690      90.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690       0.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690      90.000 NO     DARK 
+
+     MetalT created with warnings
+
+
+================================================================
+     PROCESSING FILM < SolderB >
+     TO FILE < c:/Users/user/Desktop/exam/avrusb500/allegro/gerber/SolderB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.11810                                  DARK 
+  CIRCLE     1.32110                                  DARK 
+  CIRCLE     1.57510                                  DARK 
+  SQUARE     1.32110                     0.000 NO     DARK 
+  SQUARE     1.57510                     0.000 NO     DARK 
+  OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
+
+     SolderB created with warnings
+
+
+================================================================
+     PROCESSING FILM < SolderT >
+     TO FILE < c:/Users/user/Desktop/exam/avrusb500/allegro/gerber/SolderT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.11810                                  DARK 
+  CIRCLE     1.32110                                  DARK 
+  CIRCLE     1.57510                                  DARK 
+  SQUARE     1.32110                     0.000 NO     DARK 
+  SQUARE     1.57510                     0.000 NO     DARK 
+  RECTANGLE  0.40000     x 1.70000      90.000 NO     DARK 
+  RECTANGLE  1.10010     x 1.70000      90.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690       0.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690      90.000 NO     DARK 
+  OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690       0.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690      90.000 NO     DARK 
+
+     SolderT created with warnings
+
+
+================================================================
+     PROCESSING FILM < SilkB >
+     TO FILE < c:/Users/user/Desktop/exam/avrusb500/allegro/gerber/SilkB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.20300                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+
+     SilkB created with warnings
+
+
+================================================================
+     PROCESSING FILM < SilkT >
+     TO FILE < c:/Users/user/Desktop/exam/avrusb500/allegro/gerber/SilkT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.20300                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+
+     SilkT created with warnings
+
+
+================================================================
+     PROCESSING FILM < Design >
+     TO FILE < c:/Users/user/Desktop/exam/avrusb500/allegro/gerber/Design.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Film contains layer VIA KEEPOUT/ALL that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer VIA KEEPOUT/BOTTOM that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer VIA KEEPOUT/TOP that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer ROUTE KEEPOUT/BOTTOM that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer ROUTE KEEPOUT/TOP that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer ROUTE KEEPIN/ALL that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer PACKAGE KEEPOUT/ALL that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer PACKAGE KEEPOUT/TOP that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer PACKAGE KEEPOUT/BOTTOM that should not normally be used etch (conductor) layers.
+    WARNING: Film contains layer PACKAGE KEEPIN/ALL that should not normally be used etch (conductor) layers.
+           
+    WARNING: more than one pin class in film record
+    WARNING: more than one via class in film record
+    WARNING: more than one etch class in film record
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (375.9200 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (375.9200 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (375.9200 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (375.9200 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (375.9200 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (375.9200 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (375.9200 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (375.9200 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (375.9200 233.0450).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (375.9200 233.0450).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (375.9200 233.0450).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (375.9200 233.0450).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (378.4600 233.0450).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (378.4600 233.0450).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (378.4600 233.0450).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (378.4600 233.0450).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (373.3800 241.3000).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (373.3800 241.3000).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (373.3800 241.3000).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (373.3800 241.3000).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (373.3800 243.8400).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (373.3800 243.8400).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (373.3800 243.8400).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (373.3800 243.8400).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (373.3800 246.3800).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (373.3800 246.3800).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (373.3800 246.3800).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (373.3800 246.3800).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (373.3800 248.9200).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (373.3800 248.9200).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (373.3800 248.9200).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (373.3800 248.9200).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (375.9200 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (375.9200 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (375.9200 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (375.9200 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (378.4600 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (378.4600 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (378.4600 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (378.4600 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD3 at (373.3800 251.4600).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD3 at (373.3800 251.4600).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD3 at (373.3800 251.4600).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD3 at (373.3800 251.4600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (382.9050 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (382.9050 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (382.9050 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (382.9050 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (382.9050 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (382.9050 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (382.9050 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (382.9050 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (383.5400 241.9350).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (383.5400 241.9350).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (383.5400 241.9350).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (383.5400 241.9350).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (383.5400 245.1100).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (383.5400 245.1100).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (383.5400 245.1100).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (383.5400 245.1100).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (383.5400 248.2850).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (383.5400 248.2850).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (383.5400 248.2850).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (383.5400 248.2850).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (381.0000 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (381.0000 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (381.0000 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (381.0000 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (383.5400 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (383.5400 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (383.5400 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (383.5400 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD3 at (386.0800 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD3 at (386.0800 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD3 at (386.0800 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD3 at (386.0800 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (383.5400 251.4600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (383.5400 251.4600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (383.5400 251.4600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (383.5400 251.4600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (389.8900 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (389.8900 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (389.8900 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (389.8900 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (389.8900 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (389.8900 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (389.8900 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (389.8900 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (389.8900 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (389.8900 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (389.8900 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (389.8900 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (393.7000 241.9350).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (393.7000 241.9350).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (393.7000 241.9350).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (393.7000 241.9350).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (393.7000 245.1100).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (393.7000 245.1100).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (393.7000 245.1100).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (393.7000 245.1100).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (393.7000 248.2850).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (393.7000 248.2850).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (393.7000 248.2850).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (393.7000 248.2850).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (393.7000 251.4600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (393.7000 251.4600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (393.7000 251.4600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (393.7000 251.4600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (400.0500 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (400.0500 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (400.0500 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (400.0500 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (400.0500 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (400.0500 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (400.0500 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (400.0500 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_RAD_LLB_PAD2 at (400.1800 236.4000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_RAD_LLB_PAD2 at (400.1800 236.4000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_RAD_LLB_PAD2 at (400.1800 236.4000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_RAD_LLB_PAD2 at (400.1800 236.4000).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (400.2030 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (400.2030 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (400.2030 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (400.2030 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (398.1450 240.6650).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (398.1450 240.6650).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (398.1450 240.6650).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (398.1450 240.6650).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 250.1010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 250.1010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 250.1010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 250.1010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 250.1010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 249.3010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 249.3010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 249.3010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 249.3010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 249.3010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 248.5000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 248.5000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 248.5000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 248.5000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 248.5000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD98_1 at (400.6040 247.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD98_1 at (400.6040 247.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD98_1 at (400.6040 247.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD98_1 at (400.6040 247.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD98_1 at (400.6040 247.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 246.9000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 246.9000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 246.9000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 246.9000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 246.9000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 246.1000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 246.1000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 246.1000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 246.1000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 246.1000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 245.3000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 245.3000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 245.3000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 245.3000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 245.3000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 244.5000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 244.5000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 244.5000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 244.5000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (400.6040 244.5000).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (398.8690 250.1010).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (398.8690 250.1010).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (398.8690 250.1010).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (398.8690 250.1010).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (396.8750 252.0950).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (396.8750 252.0950).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (396.8750 252.0950).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (396.8750 252.0950).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (407.6700 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (407.6700 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (407.6700 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (407.6700 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (407.6700 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (407.6700 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (407.6700 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (407.6700 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (402.0520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (402.0520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (402.0520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (402.0520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (402.0520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (402.8520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (402.8520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (402.8520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (402.8520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (402.8520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (403.6520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (403.6520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (403.6520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (403.6520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (403.6520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (404.4520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (404.4520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (404.4520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (404.4520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (404.4520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (405.2520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (405.2520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (405.2520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (405.2520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (405.2520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD100 at (406.0520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD100 at (406.0520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD100 at (406.0520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD100 at (406.0520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD100 at (406.0520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (406.8520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (406.8520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (406.8520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (406.8520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (406.8520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (407.6520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (407.6520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (407.6520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (407.6520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (407.6520 243.0520).
+    WARNING: Null REGULAR-PAD specified for padstack TM_RAD_LLB_PAD2 at (407.8000 236.4000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_RAD_LLB_PAD2 at (407.8000 236.4000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_RAD_LLB_PAD2 at (407.8000 236.4000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_RAD_LLB_PAD2 at (407.8000 236.4000).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (408.9400 241.9350).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (408.9400 241.9350).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (408.9400 241.9350).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (408.9400 241.9350).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (405.5440 240.0300).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (405.5440 240.0300).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (405.5440 240.0300).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (405.5440 240.0300).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD93_1 at (409.1000 244.5000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD93_1 at (409.1000 244.5000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD93_1 at (409.1000 244.5000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD93_1 at (409.1000 244.5000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD93_1 at (409.1000 244.5000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 245.3000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 245.3000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 245.3000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 245.3000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 245.3000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 246.1000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 246.1000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 246.1000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 246.1000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 246.1000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 246.9000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 246.9000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 246.9000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 246.9000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 246.9000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 247.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 247.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 247.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 247.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 247.7000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 248.5000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 248.5000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 248.5000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 248.5000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 248.5000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 249.3010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 249.3010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 249.3010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 249.3010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 249.3010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 250.1010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 250.1010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 250.1010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 250.1010).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (409.1000 250.1010).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (406.8520 244.2920).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (406.8520 244.2920).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (406.8520 244.2920).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (406.8520 244.2920).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (405.2520 244.1950).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (405.2520 244.1950).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (405.2520 244.1950).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (405.2520 244.1950).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (407.6700 245.1100).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (407.6700 245.1100).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (407.6700 245.1100).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (407.6700 245.1100).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (407.6520 249.5730).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (407.6520 249.5730).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (407.6520 249.5730).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (407.6520 249.5730).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (407.6520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (407.6520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (407.6520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (407.6520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (407.6520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD96_1 at (406.8520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD96_1 at (406.8520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD96_1 at (406.8520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD96_1 at (406.8520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD96_1 at (406.8520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (406.0520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (406.0520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (406.0520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (406.0520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (406.0520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (405.2520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (405.2520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (405.2520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (405.2520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (405.2520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (404.4520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (404.4520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (404.4520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (404.4520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (404.4520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (403.6520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (403.6520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (403.6520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (403.6520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (403.6520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (402.8520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (402.8520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (402.8520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (402.8520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (402.8520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (402.0520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (402.0520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (402.0520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (402.0520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (402.0520 251.5480).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (407.6520 253.3650).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (407.6520 253.3650).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (407.6520 253.3650).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (407.6520 253.3650).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (404.4950 253.3650).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (404.4950 253.3650).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (404.4950 253.3650).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (404.4950 253.3650).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (414.0200 236.8550).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (414.0200 236.8550).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (414.0200 236.8550).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (414.0200 236.8550).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (410.7560 242.0240).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (410.7560 242.0240).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (410.7560 242.0240).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (410.7560 242.0240).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (410.7560 250.1010).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (410.7560 250.1010).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (410.7560 250.1010).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (410.7560 250.1010).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (413.3850 248.9200).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (413.3850 248.9200).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (413.3850 248.9200).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (413.3850 248.9200).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (414.6550 254.6350).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (414.6550 254.6350).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (414.6550 254.6350).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (414.6550 254.6350).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (413.3850 253.3650).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (413.3850 253.3650).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (413.3850 253.3650).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (413.3850 253.3650).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (412.2649 252.8798).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (412.2649 252.8798).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (412.2649 252.8798).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (412.2649 252.8798).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (411.4800 252.0950).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (411.4800 252.0950).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (411.4800 252.0950).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (411.4800 252.0950).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (419.1000 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (419.1000 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (419.1000 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (419.1000 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (419.1000 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (419.1000 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (419.1000 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (419.1000 222.2500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (419.1000 231.7750).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (419.1000 231.7750).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (419.1000 231.7750).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (419.1000 231.7750).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (419.1000 234.3150).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (419.1000 234.3150).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (419.1000 234.3150).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (419.1000 234.3150).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (423.5450 235.5850).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (423.5450 235.5850).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (423.5450 235.5850).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (423.5450 235.5850).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (422.9100 231.7750).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (422.9100 231.7750).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (422.9100 231.7750).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (422.9100 231.7750).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (424.1800 229.8700).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (424.1800 229.8700).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (424.1800 229.8700).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (424.1800 229.8700).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (420.3700 237.4900).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (420.3700 237.4900).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (420.3700 237.4900).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (420.3700 237.4900).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (422.2750 237.4900).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (422.2750 237.4900).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (422.2750 237.4900).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (422.2750 237.4900).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (419.1000 248.9200).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (419.1000 248.9200).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (419.1000 248.9200).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (419.1000 248.9200).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.6250 226.0600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.6250 226.0600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.6250 226.0600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.6250 226.0600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.6250 229.8700).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.6250 229.8700).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.6250 229.8700).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.6250 229.8700).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.5000 239.4000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.5000 239.4000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.5000 239.4000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.5000 239.4000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.6250 243.2050).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.6250 243.2050).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.6250 243.2050).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.6250 243.2050).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.5000 247.5000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.5000 247.5000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.5000 247.5000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.5000 247.5000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.6250 251.4600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.6250 251.4600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.6250 251.4600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.6250 251.4600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.6250 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.6250 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.6250 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (428.6250 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (424.8150 254.6350).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (424.8150 254.6350).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (424.8150 254.6350).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (424.8150 254.6350).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.7850 226.0600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.7850 226.0600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.7850 226.0600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.7850 226.0600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.7850 229.8700).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.7850 229.8700).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.7850 229.8700).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.7850 229.8700).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (434.3400 233.0450).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (434.3400 233.0450).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (434.3400 233.0450).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (434.3400 233.0450).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.6600 239.4000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.6600 239.4000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.6600 239.4000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.6600 239.4000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.7850 243.2050).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.7850 243.2050).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.7850 243.2050).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.7850 243.2050).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.6600 247.5000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.6600 247.5000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.6600 247.5000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.6600 247.5000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.7850 251.4600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.7850 251.4600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.7850 251.4600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.7850 251.4600).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.7850 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.7850 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.7850 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (438.7850 255.9050).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (445.7700 234.3150).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (445.7700 234.3150).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (445.7700 234.3150).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (445.7700 234.3150).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (444.2000 240.4400).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (444.2000 240.4400).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (444.2000 240.4400).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (444.2000 240.4400).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (444.2000 242.9800).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (444.2000 242.9800).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (444.2000 242.9800).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (444.2000 242.9800).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (444.2000 245.5200).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (444.2000 245.5200).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (444.2000 245.5200).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (444.2000 245.5200).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (444.2000 248.0600).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (444.2000 248.0600).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (444.2000 248.0600).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD4 at (444.2000 248.0600).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD3 at (444.2000 250.6000).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD3 at (444.2000 250.6000).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD3 at (444.2000 250.6000).
+    WARNING: Null REGULAR-PAD specified for padstack BCON100T_LLB_PAD3 at (444.2000 250.6000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (452.1200 221.6150).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (452.1200 221.6150).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (452.1200 221.6150).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (452.1200 221.6150).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (451.9400 228.5000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (451.9400 228.5000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (451.9400 228.5000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (451.9400 228.5000).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (451.4850 235.5850).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (451.4850 235.5850).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (451.4850 235.5850).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (451.4850 235.5850).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (450.2150 235.5850).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (450.2150 235.5850).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (450.2150 235.5850).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (450.2150 235.5850).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (447.6750 235.5850).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (447.6750 235.5850).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (447.6750 235.5850).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (447.6750 235.5850).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (447.6750 233.6800).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (447.6750 233.6800).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (447.6750 233.6800).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (447.6750 233.6800).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (452.7550 233.6800).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (452.7550 233.6800).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (452.7550 233.6800).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (452.7550 233.6800).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD93_1 at (449.2000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD93_1 at (449.2000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD93_1 at (449.2000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD93_1 at (449.2000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD93_1 at (449.2000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (450.0000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (450.0000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (450.0000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (450.0000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (450.0000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (450.8000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (450.8000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (450.8000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (450.8000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (450.8000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (451.6000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (451.6000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (451.6000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (451.6000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (451.6000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (452.4000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (452.4000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (452.4000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (452.4000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (452.4000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (453.2000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (453.2000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (453.2000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (453.2000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (453.2000 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (454.0010 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (454.0010 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (454.0010 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (454.0010 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (454.0010 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 242.4480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 242.4480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 242.4480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 242.4480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 242.4480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD100 at (447.7520 241.6480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD100 at (447.7520 241.6480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD100 at (447.7520 241.6480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD100 at (447.7520 241.6480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD100 at (447.7520 241.6480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 240.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 240.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 240.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 240.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 240.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 240.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 240.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 240.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 240.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 240.0480).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (450.8000 243.2050).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (450.8000 243.2050).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (450.8000 243.2050).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (450.8000 243.2050).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (454.0250 243.2050).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (454.0250 243.2050).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (454.0250 243.2050).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (454.0250 243.2050).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (454.0250 241.9350).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (454.0250 241.9350).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (454.0250 241.9350).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (454.0250 241.9350).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (454.0010 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (454.0010 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (454.0010 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (454.0010 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (454.0010 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (453.2000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (453.2000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (453.2000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (453.2000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (453.2000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD98_1 at (452.4000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD98_1 at (452.4000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD98_1 at (452.4000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD98_1 at (452.4000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD98_1 at (452.4000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (451.6000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (451.6000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (451.6000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (451.6000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (451.6000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (450.8000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (450.8000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (450.8000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (450.8000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (450.8000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (450.0000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (450.0000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (450.0000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (450.0000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (450.0000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (449.2000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (449.2000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (449.2000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (449.2000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (449.2000 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 245.6480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 245.6480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 245.6480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 245.6480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 245.6480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 244.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 244.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 244.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 244.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 244.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 244.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 244.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 244.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 244.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 244.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 243.2480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 243.2480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 243.2480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 243.2480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD99 at (447.7520 243.2480).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (454.0250 248.9200).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (454.0250 248.9200).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (454.0250 248.9200).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (454.0250 248.9200).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (454.6600 245.1100).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (454.6600 245.1100).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (454.6600 245.1100).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (454.6600 245.1100).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (453.2000 245.1100).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (453.2000 245.1100).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (453.2000 245.1100).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (453.2000 245.1100).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (448.3100 252.7300).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (448.3100 252.7300).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (448.3100 252.7300).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (448.3100 252.7300).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (462.2800 221.6150).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (462.2800 221.6150).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (462.2800 221.6150).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (462.2800 221.6150).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (462.1000 228.5000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (462.1000 228.5000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (462.1000 228.5000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (462.1000 228.5000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (454.8010 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (454.8010 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (454.8010 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (454.8010 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD94_1 at (454.8010 238.6000).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 240.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 240.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 240.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 240.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 240.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD96_1 at (456.2480 240.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD96_1 at (456.2480 240.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD96_1 at (456.2480 240.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD96_1 at (456.2480 240.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD96_1 at (456.2480 240.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 241.6480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 241.6480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 241.6480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 241.6480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 241.6480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 242.4480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 242.4480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 242.4480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 242.4480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 242.4480).
+    WARNING: Null REGULAR-PAD specified for padstack TM_RAD_LLB_PAD2 at (461.6450 237.4900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_RAD_LLB_PAD2 at (461.6450 237.4900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_RAD_LLB_PAD2 at (461.6450 237.4900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_RAD_LLB_PAD2 at (461.6450 237.4900).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 243.2480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 243.2480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 243.2480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 243.2480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 243.2480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 244.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 244.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 244.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 244.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 244.0480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 244.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 244.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 244.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 244.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 244.8480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 245.6480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 245.6480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 245.6480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 245.6480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD95_1 at (456.2480 245.6480).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (454.8010 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (454.8010 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (454.8010 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (454.8010 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack QUAD_LLB_PAD97_1 at (454.8010 247.0960).
+    WARNING: Null REGULAR-PAD specified for padstack TM_RAD_LLB_PAD2 at (461.6450 245.1100).
+    WARNING: Null REGULAR-PAD specified for padstack TM_RAD_LLB_PAD2 at (461.6450 245.1100).
+    WARNING: Null REGULAR-PAD specified for padstack TM_RAD_LLB_PAD2 at (461.6450 245.1100).
+    WARNING: Null REGULAR-PAD specified for padstack TM_RAD_LLB_PAD2 at (461.6450 245.1100).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (455.9300 248.9200).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (455.9300 248.9200).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (455.9300 248.9200).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (455.9300 248.9200).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CYLND_LLB_PAD3 at (458.4700 252.7300).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CYLND_LLB_PAD3 at (458.4700 252.7300).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CYLND_LLB_PAD3 at (458.4700 252.7300).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CYLND_LLB_PAD3 at (458.4700 252.7300).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CYLND_LLB_PAD4 at (455.2950 252.7300).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CYLND_LLB_PAD4 at (455.2950 252.7300).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CYLND_LLB_PAD4 at (455.2950 252.7300).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CYLND_LLB_PAD4 at (455.2950 252.7300).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (462.3000 254.5000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (462.3000 254.5000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (462.3000 254.5000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (462.3000 254.5000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_GND at (469.0000 223.5000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_GND at (469.0000 223.5000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_GND at (469.0000 223.5000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_GND at (469.0000 223.5000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_GND at (469.0000 223.5000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_GND at (469.0000 228.1000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_GND at (469.0000 228.1000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_GND at (469.0000 228.1000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_GND at (469.0000 228.1000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_GND at (469.0000 228.1000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 224.5000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 224.5000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 224.5000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 224.5000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 224.5000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 225.1500).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 225.1500).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 225.1500).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 225.1500).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 225.1500).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 227.1000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 227.1000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 227.1000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 227.1000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 227.1000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 226.4500).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 226.4500).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 226.4500).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 226.4500).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 226.4500).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 225.8000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 225.8000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 225.8000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 225.8000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_ELEC at (469.0000 225.8000).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_MOUNT at (469.0000 220.6750).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_MOUNT at (469.0000 220.6750).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_MOUNT at (469.0000 220.6750).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_MOUNT at (469.0000 220.6750).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (464.8200 226.0600).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (464.8200 226.0600).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (464.8200 226.0600).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (464.8200 226.0600).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (464.8200 224.1550).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (464.8200 224.1550).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (464.8200 224.1550).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (464.8200 224.1550).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_MOUNT at (469.0000 230.9250).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_MOUNT at (469.0000 230.9250).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_MOUNT at (469.0000 230.9250).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_MOUNT at (469.0000 230.9250).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (469.2650 240.0300).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (469.2650 240.0300).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (469.2650 240.0300).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (469.2650 240.0300).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (469.2650 237.4900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (469.2650 237.4900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (469.2650 237.4900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (469.2650 237.4900).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (467.9950 247.6500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (467.9950 247.6500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (467.9950 247.6500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD4 at (467.9950 247.6500).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_MOUNT at (472.7000 220.6750).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_MOUNT at (472.7000 220.6750).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_MOUNT at (472.7000 220.6750).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_MOUNT at (472.7000 220.6750).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (470.5350 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (470.5350 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (470.5350 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack VIA at (470.5350 224.7900).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_MOUNT at (472.7000 230.9250).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_MOUNT at (472.7000 230.9250).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_MOUNT at (472.7000 230.9250).
+    WARNING: Null REGULAR-PAD specified for padstack MICRO_USB_MOUNT at (472.7000 230.9250).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (470.5350 247.6500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (470.5350 247.6500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (470.5350 247.6500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_CAP_P_LLB_PAD3 at (470.5350 247.6500).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (472.4600 254.5000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (472.4600 254.5000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (472.4600 254.5000).
+    WARNING: Null REGULAR-PAD specified for padstack TM_AXIAL_LLB_PAD3 at (472.4600 254.5000).
+    WARNING: rectangle or unfilled shape composed 0 width line found at (368.3000 215.9000)
+           ... ignored.
+
+    WARNING: 0 width line found at (368.3000 263.4000)
+           ... ignored.
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20300                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     0.61010                                  DARK 
+  CIRCLE     1.11810                                  DARK 
+  CIRCLE     1.32110                                  DARK 
+  CIRCLE     1.57510                                  DARK 
+  SQUARE     1.32110                     0.000 NO     DARK 
+  SQUARE     1.57510                     0.000 NO     DARK 
+  RECTANGLE  0.40000     x 1.70000      90.000 NO     DARK 
+  RECTANGLE  1.10010     x 1.70000      90.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690       0.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690      90.000 NO     DARK 
+  OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690       0.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690      90.000 NO     DARK 
+
+     Design created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < c:/Users/user/Desktop/exam/avrusb500/allegro/gerber/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     0.61010                                  DARK 
+  CIRCLE     1.32110                                  DARK 
+  CIRCLE     1.57510                                  DARK 
+  SQUARE     1.32110                     0.000 NO     DARK 
+  SQUARE     1.57510                     0.000 NO     DARK 
+  OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < c:/Users/user/Desktop/exam/avrusb500/allegro/gerber/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Suppress shape fill on neg film     NO
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     0.61010                                  DARK 
+  CIRCLE     1.32110                                  DARK 
+  CIRCLE     1.57510                                  DARK 
+  SQUARE     1.32110                     0.000 NO     DARK 
+  SQUARE     1.57510                     0.000 NO     DARK 
+  RECTANGLE  0.40000     x 1.70000      90.000 NO     DARK 
+  RECTANGLE  1.10010     x 1.70000      90.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690       0.000 NO     DARK 
+  RECTANGLE  1.77800     x 0.45690      90.000 NO     DARK 
+  OBLONG     1.19990     x 1.89990      90.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690       0.000 NO     DARK 
+  OBLONG     1.77800     x 0.45690      90.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < DrillDraw >
+     TO FILE < c:/Users/user/Desktop/exam/avrusb500/allegro/gerber/DrillDraw.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     DrillDraw created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        AutoSilkT created with warnings
+        AutoSilkB created with warnings
+        MetalB created with warnings
+        MetalT created with warnings
+        SolderB created with warnings
+        SolderT created with warnings
+        SilkB created with warnings
+        SilkT created with warnings
+        Design created with warnings
+        BOTTOM created with warnings
+        TOP created with warnings
+        DrillDraw created with warnings
+
+ ARTWORK had warnings

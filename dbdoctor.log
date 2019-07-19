@@ -1,0 +1,16 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : micro_usb.brd                                 )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Fri Jul 19 12:48:03 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+WARNING Deleted redundant via at (447.6750 233.6800) on net VCC.
+
+WARNING   WARNING(SPMHDB-42): Run batch DRC to correctly regenerate DRC errs.
+
+2 warnings, 0 errors detected, 0 errors could be fixed.

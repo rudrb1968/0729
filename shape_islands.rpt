@@ -1,0 +1,31 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : micro_usb.brd                                 )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Fri Jul 19 09:10:50 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 12
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (467.3600 222.9501)  Net: +5V
+	Point on shape: (470.1042 222.9501)  Net: +5V
+
+    Layer = BOTTOM
+	Point on shape: (418.2419 235.8388)  Net: +5V
+	Point on shape: (427.8632 231.3657)  Net: +5V
+	Point on shape: (418.3915 233.7363)  Net: +5V
+	Point on shape: (420.1429 240.2838)  Net: +5V
+	Point on shape: (427.4157 239.2384)  Net: +5V
+	Point on shape: (422.1171 250.4438)  Net: +5V
+	Point on shape: (427.6420 247.8189)  Net: +5V
+	Point on shape: (445.1149 244.7326)  Net: +5V
+	Point on shape: (432.5929 246.1262)  Net: +5V
+	Point on shape: (427.5638 251.1553)  Net: +5V

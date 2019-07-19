@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : AVRUSB500.brd                                 )
 (    Software Version : 16.6S034                                      )
-(    Date/Time        : Thu Jul 18 15:05:22 2019                      )
+(    Date/Time        : Thu Jul 18 17:41:33 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -27,7 +27,7 @@ CmdLine: netrev.exe -y 1 -n -i C:\USERS\USER\DESKTOP\EXAM\AVRUSB500\allegro C:\U
 ------ Preparing to read pst files ------
 
 Starting to read C:/USERS/USER/DESKTOP/EXAM/AVRUSB500/allegro/pstchip.dat 
-   Finished reading C:/USERS/USER/DESKTOP/EXAM/AVRUSB500/allegro/pstchip.dat (00:00:00.03)
+   Finished reading C:/USERS/USER/DESKTOP/EXAM/AVRUSB500/allegro/pstchip.dat (00:00:00.04)
 Starting to read C:/USERS/USER/DESKTOP/EXAM/AVRUSB500/allegro/pstxprt.dat 
    Finished reading C:/USERS/USER/DESKTOP/EXAM/AVRUSB500/allegro/pstxprt.dat (00:00:00.00)
 Starting to read C:/USERS/USER/DESKTOP/EXAM/AVRUSB500/allegro/pstxnet.dat 
@@ -66,7 +66,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Jul 18 15:05:22 2019
+netrev run on Jul 18 17:41:33 2019
    DESIGN NAME : 'AVRUSB500'
    PACKAGING ON Apr 28 2014 16:45:46
 
@@ -91,6 +91,6 @@ netrev run on Jul 18 15:05:22 2019
  No oversight detected
   1 warnings detected
 
-cpu time      0:00:37
-elapsed time  0:00:00
+cpu time      0:00:41
+elapsed time  0:00:01
 
