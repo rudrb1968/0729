@@ -1,3 +1,4 @@
+<HTML><HEAD><STYLE TYPE="text/css">.errorMessage { color:darkred; font-weight:bold; font-style:italic; text-decoration:underline; }</STYLE></HEAD><BODY><PRE>
 (---------------------------------------------------------------------)
 (                                                                     )
 (    Shape Dynamic Status Report                                      )
@@ -16,4 +17,6 @@
   <<<  ETCH  >>>
 
     Layer = TOP
-       State: No Etch      Point on shape: (468.6300 223.5200)  Net: +5V
+       State: No Etch      Point on shape: <a href="xprobe:xy:468.6300 223.5200">(468.6300 223.5200)</a>  Net: +5V
+</PRE>
+</BODY></HTML>

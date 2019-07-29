@@ -13,7 +13,7 @@ SUPPRESS-EQUAL         NO
 TOOL-SELECT            NO
 OPTIMIZE_DRILLING      NO
 ENHANCED_EXCELLON      NO
-TAPE-FILE              C:/Users/user/Desktop/exam/avrusb500/allegro/gerber/micro_usb.drl
+TAPE-FILE              C:/Users/user/Desktop/신성욱 교수님/exam/avrusb500/allegro/gerber/micro_usb_0729.drl
 HEADER                 none
 LEADER                 12
 CODE                   ASCII
@@ -22,3 +22,14 @@ SEPARATE-ROUTING       NO
 DRILLING               LAYER-PAIR
 BACKDRILL              NO
 CAVITY                 NO
+COUNTER                NO
+TOLERANCE_DRILL        NO
+TOLERANCE_TRAVEL       NO
+TOOL_SIZE              NO
+ROTATION               NO
+NON_STANDARD           NO
+TOTAL_DRILL            NO
+SEPARATE_SLOT          NO
+SUPPRESS_TOLERANCE     NO
+SUPPRESS_TOOLSIZE      NO
+SUPPRESS_ROTATION      NO

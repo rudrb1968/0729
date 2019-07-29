@@ -1,0 +1,817 @@
+\t (00:00:51) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:51)     Journal start - Mon Jul 29 11:20:22 2019
+\t (00:00:51)         Host=USER-PC User=user Pid=4672 CPUs=4
+\t (00:00:51) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession user C:\USERS\USER\DESKTOP\신성욱 교수님\EXAM\AVRUSB500\allegro\AVRUSB500.brd
+\t (00:00:51) 
+   (00:00:53) Loading axlcore.cxt 
+\t (00:01:00) Opening existing design...
+\d (00:01:01) Design opened: C:/USERS/USER/DESKTOP/신성욱 교수님/EXAM/AVRUSB500/allegro/AVRUSB500.brd
+\i (00:01:01) trapsize 1737
+\i (00:01:01) trapsize 1777
+\i (00:01:01) trapsize 2317
+\i (00:01:02) trapsize 2356
+\i (00:01:02) trapsize 28408
+\i (00:01:02) generaledit 
+\i (00:01:05) roam x 96 
+\i (00:01:05) roam x 96
+\i (00:01:05) roam x 96 
+\i (00:01:05) roam x 96
+\i (00:01:06) roam x 96 
+\i (00:01:06) roam x 96
+\i (00:01:06) roam x 96 
+\i (00:01:06) roam x 96
+\i (00:01:06) roam x 96 
+\i (00:01:06) roam x 96
+\i (00:01:06) roam x 96 
+\i (00:01:06) roam x 96
+\i (00:01:07) zoom out 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom out 380.0466 251.0791
+\i (00:01:07) trapsize 4712
+\i (00:01:09) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:01:11) setwindow form.find
+\i (00:01:11) FORM find all_off  
+\i (00:01:12) FORM find shapes YES 
+\i (00:01:15) FORM find vias YES 
+\i (00:01:16) FORM find clines YES 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) drag_start grid 369.3036 259.9374
+\i (00:01:20) drag_stop 476.3567 217.1538
+\i (00:01:21) delete 
+\i (00:01:21) generaledit 
+\i (00:01:23) pick grid 353.8487 256.4506
+\t (00:01:23) last pick:  353.8000 256.5000
+\i (00:01:23) prepopup 391.5435 254.6601
+\i (00:01:24) pick grid 396.7265 256.5449
+\t (00:01:24) last pick:  396.7000 256.5000
+\i (00:01:26) pick grid 378.0676 234.3992
+\t (00:01:26) last pick:  378.1000 234.4000
+\i (00:01:27) setwindow form.find
+\i (00:01:27) FORM find all_on  
+\i (00:01:29) setwindow pcb
+\i (00:01:29) pick grid 378.0676 233.3626
+\t (00:01:29) last pick:  378.1000 233.4000
+\i (00:01:29) pick grid 379.2927 233.7395
+\t (00:01:29) last pick:  379.3000 233.7000
+\i (00:01:29) pick grid 379.7639 233.8338
+\t (00:01:29) last pick:  379.8000 233.8000
+\i (00:01:30) pick grid 379.8581 234.1165
+\t (00:01:30) last pick:  379.9000 234.1000
+\i (00:01:30) zoom in 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom in 377.8791 231.8548
+\i (00:01:30) trapsize 2356
+\i (00:01:31) pick grid 379.5754 234.2108
+\t (00:01:31) last pick:  379.6000 234.2000
+\i (00:01:31) prepopup 379.5754 234.2108
+\i (00:01:39) pick grid 379.6225 234.1165
+\t (00:01:39) last pick:  379.6000 234.1000
+\i (00:01:40) prepopup 379.6225 234.1165
+\i (00:01:42) pick grid 382.3554 234.9647
+\t (00:01:42) last pick:  382.4000 235.0000
+\i (00:02:21) done 
+\i (00:02:21) place manual 
+\i (00:02:22) FORM plc_manual placement_list 
+\i (00:02:22) FORM plc_manual categories Components by refdes 
+\i (00:02:22) trapsize 2356
+\i (00:02:24) setwindow form.plc_manual
+\i (00:02:24) FORM plc_manual advanced_settings  
+\i (00:02:25) FORM plc_manual placement_list  
+\i (00:02:28) setwindow pcb
+\i (00:02:28) pick grid 378.8215 235.2003
+\t (00:02:28) last pick:  378.8000 235.2000
+\t (00:02:28) Moving C10 / CAPACITOR NON-POL_CPCYL1D225L_1 / CPCYL1D225LS100031.
+\t (00:02:28) last pick:  375.9200 233.0450
+\i (00:02:31) pick grid 374.6280 233.6454
+\t (00:02:31) last pick:  374.6000 233.6000
+\i (00:02:31) prepopup 377.9734 235.3887
+\i (00:02:38) done 
+\i (00:02:38) generaledit 
+\i (00:02:38) pick grid 378.5859 234.6348
+\t (00:02:38) last pick:  378.6000 234.6000
+\i (00:02:39) prepopup 378.4446 234.6820
+\i (00:02:40) done 
+\i (00:02:40) place manual 
+\t (00:02:40) Selected item not valid for current operation, ignored: Arc Segment "Package Geometry/Assembly_Top"
+\t (00:02:40) No valid items selected for the current operation, exiting.
+\i (00:02:41) FORM plc_manual placement_list 
+\e (00:02:41) Form not found
+\i (00:02:41) FORM plc_manual categories Components by refdes 
+\e (00:02:41) Form not found
+\i (00:02:41) trapsize 2356
+\i (00:02:41) generaledit 
+\i (00:02:46) done 
+\i (00:02:46) place manual 
+\t (00:02:46) Selected item not valid for current operation, ignored: Arc Segment "Package Geometry/Assembly_Top"
+\t (00:02:46) No valid items selected for the current operation, exiting.
+\i (00:02:46) FORM plc_manual placement_list 
+\e (00:02:46) Form not found
+\i (00:02:46) FORM plc_manual categories Components by refdes 
+\e (00:02:46) Form not found
+\i (00:02:46) trapsize 2356
+\i (00:02:46) generaledit 
+\i (00:02:48) prepopup 378.0676 235.2474
+\i (00:02:49) pick grid 380.3293 236.7081
+\t (00:02:49) last pick:  380.3000 236.7000
+\i (00:02:50) done 
+\i (00:02:50) generaledit 
+\i (00:02:55) done 
+\i (00:02:55) place manual 
+\i (00:02:55) FORM plc_manual placement_list 
+\i (00:02:55) FORM plc_manual categories Components by refdes 
+\i (00:02:55) trapsize 2356
+\i (00:02:57) pick grid 378.2090 235.0118
+\t (00:02:57) last pick:  378.2000 235.0000
+\t (00:02:57) Moving C10 / CAPACITOR NON-POL_CPCYL1D225L_1 / CPCYL1D225LS100031.
+\t (00:02:57) last pick:  374.6000 233.6000
+\i (00:02:58) pick grid 374.3453 234.0694
+\t (00:02:58) last pick:  374.3000 234.1000
+\i (00:02:59) prepopup 378.1619 235.3887
+\i (00:03:02) setwindow form.plc_manual
+\i (00:03:02) FORM plc_manual advanced_settings  
+\i (00:03:03) FORM plc_manual library YES 
+\i (00:03:05) FORM plc_manual library NO 
+\i (00:03:07) FORM plc_manual library YES 
+\i (00:03:07) FORM plc_manual placement_list  
+\i (00:03:08) FORM plc_manual categories Package symbols 
+\i (00:03:10) setwindow pcb
+\i (00:03:10) pick grid 377.8792 235.6714
+\t (00:03:10) last pick:  377.9000 235.7000
+\t (00:03:10) Moving C10 / CAPACITOR NON-POL_CPCYL1D225L_1 / CPCYL1D225LS100031.
+\t (00:03:10) last pick:  374.3000 234.1000
+\i (00:03:12) prepopup 375.3348 234.7762
+\i (00:03:13) pop alt symbol SML2015 
+\w (00:03:13) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:03:13) Placing C10 / CAPACITOR NON-POL_CPCYL1D225L_1 / SML2015 on Top.
+\i (00:03:17) pick grid 374.0626 232.0904
+\t (00:03:17) last pick:  374.1000 232.1000
+\i (00:03:18) prepopup 375.7588 233.2213
+\i (00:03:19) done 
+\i (00:03:19) generaledit 
+\i (00:03:20) pick grid 377.0310 225.8237
+\t (00:03:20) last pick:  377.0000 225.8000
+\i (00:03:21) done 
+\i (00:03:22) place manual 
+\t (00:03:22) Selected item not valid for current operation, ignored: Arc Segment "Package Geometry/Assembly_Top"
+\t (00:03:22) No valid items selected for the current operation, exiting.
+\i (00:03:22) FORM plc_manual placement_list 
+\e (00:03:22) Form not found
+\i (00:03:22) FORM plc_manual categories Components by refdes 
+\e (00:03:22) Form not found
+\i (00:03:22) trapsize 2356
+\i (00:03:22) generaledit 
+\i (00:03:23) prepopup 377.6907 225.7294
+\i (00:03:27) prepopup 377.9734 225.4467
+\i (00:03:28) pick grid 374.7693 225.7766
+\t (00:03:28) last pick:  374.8000 225.8000
+\i (00:03:29) pick grid 378.0676 225.1640
+\t (00:03:29) last pick:  378.1000 225.2000
+\i (00:03:29) prepopup 378.0676 225.1640
+\i (00:03:30) done 
+\i (00:03:30) place manual 
+\t (00:03:30) Selected item not valid for current operation, ignored: Arc Segment "Package Geometry/Assembly_Top"
+\t (00:03:30) No valid items selected for the current operation, exiting.
+\i (00:03:30) FORM plc_manual placement_list 
+\e (00:03:30) Form not found
+\i (00:03:30) FORM plc_manual categories Components by refdes 
+\e (00:03:30) Form not found
+\i (00:03:30) trapsize 2356
+\i (00:03:30) generaledit 
+\i (00:03:34) pick grid 378.0676 225.2583
+\t (00:03:34) last pick:  378.1000 225.3000
+\i (00:03:34) prepopup 378.0676 225.2583
+\i (00:03:37) pick grid 376.4656 226.0593
+\t (00:03:37) last pick:  376.5000 226.1000
+\i (00:03:37) prepopup 376.4656 226.0593
+\i (00:03:41) done 
+\i (00:03:41) place manual 
+\t (00:03:41) Selected item not valid for current operation, ignored: Arc Segment "Package Geometry/Assembly_Top"
+\t (00:03:41) No valid items selected for the current operation, exiting.
+\i (00:03:41) FORM plc_manual placement_list 
+\e (00:03:41) Form not found
+\i (00:03:41) FORM plc_manual categories Components by refdes 
+\e (00:03:41) Form not found
+\i (00:03:41) trapsize 2356
+\i (00:03:41) generaledit 
+\i (00:03:43) done 
+\i (00:03:43) place manual 
+\t (00:03:43) Selected item not valid for current operation, ignored: Arc Segment "Package Geometry/Assembly_Top"
+\t (00:03:43) No valid items selected for the current operation, exiting.
+\i (00:03:43) FORM plc_manual placement_list 
+\e (00:03:43) Form not found
+\i (00:03:43) FORM plc_manual categories Components by refdes 
+\e (00:03:43) Form not found
+\i (00:03:43) trapsize 2356
+\i (00:03:43) generaledit 
+\i (00:03:44) Esc 
+\i (00:03:44) pick grid 384.4286 232.7030
+\t (00:03:44) last pick:  384.4000 232.7000
+\i (00:03:46) done 
+\i (00:03:46) place manual 
+\i (00:03:46) FORM plc_manual placement_list 
+\i (00:03:46) FORM plc_manual categories Components by refdes 
+\i (00:03:46) setwindow form.plc_manual
+\i (00:03:46) FORM plc_manual categories Components by refdes 
+\i (00:03:46) setwindow pcb
+\i (00:03:46) trapsize 2356
+\i (00:03:48) setwindow form.plc_manual
+\i (00:03:48) FORM plc_manual advanced_settings  
+\i (00:03:49) FORM plc_manual placement_list  
+\i (00:03:49) setwindow pcb
+\i (00:03:49) prepopup 377.6907 225.7766
+\i (00:03:51) pick grid 378.6331 228.1325
+\t (00:03:51) last pick:  378.6000 228.1000
+\i (00:03:52) pick grid 377.6436 225.6823
+\t (00:03:52) last pick:  377.6000 225.7000
+\t (00:03:52) Moving C6 / CAPACITOR POL_CPCYL1D225LS10003 / CPCYL1D225LS100031.
+\t (00:03:52) last pick:  375.9200 222.2500
+\i (00:03:54) prepopup 375.1934 222.2898
+\i (00:03:56) pop alt symbol SMDCAP 
+\t (00:03:56) Placing C6 / CAPACITOR POL_CPCYL1D225LS10003 / SMDCAP on Top.
+\i (00:04:01) prepopup 374.9578 224.1745
+\i (00:04:02) cancel 
+\i (00:04:02) generaledit 
+\i (00:04:08) zoom in 1 
+\i (00:04:08) setwindow pcb
+\i (00:04:08) zoom in 386.8317 233.9281
+\i (00:04:08) trapsize 1178
+\i (00:04:08) zoom in 1 
+\i (00:04:08) setwindow pcb
+\i (00:04:08) zoom in 386.8317 233.9281
+\i (00:04:08) trapsize 589
+\i (00:04:08) zoom in 1 
+\i (00:04:08) setwindow pcb
+\i (00:04:08) zoom in 386.8317 233.9282
+\i (00:04:08) trapsize 294
+\i (00:04:09) zoom out 1 
+\i (00:04:09) setwindow pcb
+\i (00:04:09) zoom out 386.8316 233.9341
+\i (00:04:09) trapsize 589
+\i (00:04:09) zoom out 1 
+\i (00:04:09) setwindow pcb
+\i (00:04:09) zoom out 386.8317 233.9342
+\i (00:04:09) trapsize 1178
+\i (00:04:09) zoom out 1 
+\i (00:04:09) setwindow pcb
+\i (00:04:09) zoom out 386.8317 233.9577
+\i (00:04:09) trapsize 2356
+\i (00:04:09) zoom out 1 
+\i (00:04:09) setwindow pcb
+\i (00:04:09) zoom out 386.8317 233.9577
+\i (00:04:09) trapsize 4712
+\i (00:04:10) zoom in 1 
+\i (00:04:10) setwindow pcb
+\i (00:04:10) zoom in 382.4967 241.1198
+\i (00:04:10) trapsize 2356
+\i (00:04:10) roam y -96 
+\i (00:04:10) roam y -96
+\i (00:04:10) roam x -96 
+\i (00:04:10) roam x -96
+\i (00:04:11) zoom in 1 
+\i (00:04:11) setwindow pcb
+\i (00:04:11) zoom in 384.4832 247.1267
+\i (00:04:11) trapsize 1178
+\i (00:04:13) pick grid 394.8494 249.6476
+\t (00:04:13) last pick:  394.8000 249.6000
+\i (00:04:14) done 
+\i (00:04:14) place manual 
+\i (00:04:14) FORM plc_manual placement_list 
+\i (00:04:14) FORM plc_manual categories Components by refdes 
+\i (00:04:14) trapsize 1178
+\i (00:04:15) pick grid 387.0277 252.7810
+\t (00:04:15) last pick:  387.0000 252.8000
+\t (00:04:15) Moving R14 / R_AX400X100031_220_SML2015 / AX400X100031.
+\t (00:04:15) last pick:  393.7000 251.4600
+\i (00:04:17) prepopup 393.5537 251.7209
+\i (00:04:19) pop alt symbol SML2015 
+\t (00:04:19) Placing R14 / R_AX400X100031_220_SML2015 / SML2015 on Top.
+\i (00:04:26) pick grid 390.6323 251.9329
+\t (00:04:26) last pick:  390.6000 251.9000
+\i (00:04:26) prepopup 390.6087 251.9329
+\i (00:04:27) done 
+\i (00:04:27) generaledit 
+\i (00:04:28) pick grid 389.6899 249.3885
+\t (00:04:28) last pick:  389.7000 249.4000
+\i (00:04:30) done 
+\i (00:04:30) place manual 
+\t (00:04:30) Selected item not valid for current operation, ignored: Text "220"
+\t (00:04:30) No valid items selected for the current operation, exiting.
+\i (00:04:30) FORM plc_manual placement_list 
+\e (00:04:30) Form not found
+\i (00:04:30) FORM plc_manual categories Components by refdes 
+\e (00:04:30) Form not found
+\i (00:04:30) trapsize 1178
+\i (00:04:30) generaledit 
+\i (00:04:31) pick grid 382.9990 251.5559
+\t (00:04:31) last pick:  383.0000 251.6000
+\i (00:04:31) pick grid 382.9283 250.8963
+\t (00:04:31) last pick:  382.9000 250.9000
+\i (00:04:32) done 
+\i (00:04:32) place manual 
+\i (00:04:32) FORM plc_manual placement_list 
+\i (00:04:32) FORM plc_manual categories Components by refdes 
+\i (00:04:32) trapsize 1178
+\i (00:04:34) pick grid 388.1585 247.9042
+\t (00:04:34) last pick:  388.2000 247.9000
+\t (00:04:34) Moving R4 / R_AX400X100031_220_SML2015 / AX400X100031.
+\t (00:04:34) last pick:  393.7000 248.2850
+\i (00:04:35) prepopup 392.3757 248.3047
+\i (00:04:37) pop alt symbol SML2015 
+\t (00:04:37) Placing R4 / R_AX400X100031_220_SML2015 / SML2015 on Top.
+\i (00:04:40) pick grid 390.6323 247.6450
+\t (00:04:40) last pick:  390.6000 247.6000
+\i (00:04:41) pick grid 391.8103 244.7708
+\t (00:04:41) last pick:  391.8000 244.8000
+\t (00:04:41) Moving R3 / R_AX400X100031_220_SML2015 / AX400X100031.
+\t (00:04:41) last pick:  393.7000 245.1100
+\i (00:04:42) prepopup 391.8103 244.7708
+\i (00:04:44) pop alt symbol SML2015 
+\t (00:04:44) Placing R3 / R_AX400X100031_220_SML2015 / SML2015 on Top.
+\i (00:04:46) pick grid 390.6087 243.2630
+\t (00:04:46) last pick:  390.6000 243.3000
+\i (00:04:47) pick grid 391.7396 240.6714
+\t (00:04:47) last pick:  391.7000 240.7000
+\t (00:04:47) Moving R2 / R_AX400X100031_220_SML2015 / AX400X100031.
+\t (00:04:47) last pick:  393.7000 241.9350
+\i (00:04:47) prepopup 391.7396 240.6714
+\i (00:04:49) pop alt symbol SML2015 
+\t (00:04:49) Placing R2 / R_AX400X100031_220_SML2015 / SML2015 on Top.
+\i (00:04:54) pick grid 390.5852 238.9516
+\t (00:04:54) last pick:  390.6000 239.0000
+\i (00:04:56) zoom out 1 
+\i (00:04:56) setwindow pcb
+\i (00:04:56) zoom out 394.0484 251.0141
+\i (00:04:56) trapsize 2356
+\i (00:04:57) roam x 96 
+\i (00:04:57) roam x 96
+\i (00:04:57) roam x 96 
+\i (00:04:57) roam x 96
+\i (00:04:57) roam x 96 
+\i (00:04:57) roam x 96
+\i (00:04:58) roam x 96 
+\i (00:04:58) roam x 96
+\i (00:04:58) roam y 96 
+\i (00:04:58) roam y 96
+\i (00:04:58) roam y 96 
+\i (00:04:58) roam y 96
+\i (00:04:59) roam x 96 
+\i (00:04:59) roam x 96
+\i (00:05:02) pick grid 400.8335 225.6404
+\t (00:05:02) last pick:  400.8000 225.6000
+\t (00:05:02) Moving C3 / CAPACITOR NON-POL_CPCYL1D225L_3 / CPCYL1D225LS100031.
+\t (00:05:02) last pick:  400.0500 222.2500
+\i (00:05:02) prepopup 400.8335 225.6404
+\i (00:05:03) pop alt symbol SML2015 
+\t (00:05:03) Placing C3 / CAPACITOR NON-POL_CPCYL1D225L_3 / SML2015 on Top.
+\i (00:05:06) iangle 90 
+\t (00:05:06) last pick:  9.0000 0.0000
+\i (00:05:10) iangle 90 
+\t (00:05:10) last pick:  9.0000 0.0000
+\i (00:05:11) iangle 90 
+\t (00:05:11) last pick:  9.0000 0.0000
+\i (00:05:12) iangle 90 
+\t (00:05:12) last pick:  9.0000 0.0000
+\i (00:05:16) pick grid 400.0325 221.5882
+\t (00:05:16) last pick:  400.0000 221.6000
+\i (00:05:17) pick grid 409.5506 223.2373
+\t (00:05:17) last pick:  409.6000 223.2000
+\t (00:05:17) Moving C2 / CAPACITOR NON-POL_CPCYL1D225L_3 / CPCYL1D225LS100031.
+\t (00:05:17) last pick:  407.6700 222.2500
+\i (00:05:17) prepopup 409.5506 223.2373
+\i (00:05:19) pop alt symbol SML2015 
+\t (00:05:19) Placing C2 / CAPACITOR NON-POL_CPCYL1D225L_3 / SML2015 on Top.
+\i (00:05:25) pick grid 407.7129 221.5410
+\t (00:05:25) last pick:  407.7000 221.5000
+\i (00:05:26) roam x 96 
+\i (00:05:26) roam x 96
+\i (00:05:26) roam x 96 
+\i (00:05:26) roam x 96
+\i (00:05:26) roam x 96 
+\i (00:05:26) roam x 96
+\i (00:05:26) roam x 96 
+\i (00:05:26) roam x 96
+\i (00:05:27) pick grid 420.8121 223.9912
+\t (00:05:27) last pick:  420.8000 224.0000
+\t (00:05:27) Moving C1 / CAPACITOR NON-POL_CPCYL1D225LS1 / CPCYL1D225LS100031.
+\t (00:05:27) last pick:  419.1000 224.7900
+\i (00:05:27) prepopup 420.8121 223.9912
+\i (00:05:28) pop alt symbol SML2015 
+\t (00:05:28) Placing C1 / CAPACITOR NON-POL_CPCYL1D225LS1 / SML2015 on Top.
+\i (00:05:31) pick grid 418.6446 225.8760
+\t (00:05:31) last pick:  418.6000 225.9000
+\i (00:05:32) pick grid 420.6707 230.8706
+\t (00:05:32) last pick:  420.7000 230.9000
+\t (00:05:32) Moving C4 / CAPACITOR NON-POL_CPCYL1D225LS1 / CPCYL1D225LS100031.
+\t (00:05:32) last pick:  419.1000 231.7750
+\i (00:05:32) prepopup 420.6707 230.9178
+\i (00:05:35) prepopup 419.2100 233.3208
+\i (00:05:37) pop alt symbol SML2015 
+\t (00:05:37) Placing C4 / CAPACITOR NON-POL_CPCYL1D225LS1 / SML2015 on Top.
+\i (00:05:41) pick grid 418.6917 232.5198
+\t (00:05:41) last pick:  418.7000 232.5000
+\i (00:05:43) roam x 96 
+\i (00:05:43) roam x 96
+\i (00:05:43) roam x 96 
+\i (00:05:43) roam x 96
+\i (00:05:43) roam y -96 
+\i (00:05:43) roam y -96
+\i (00:05:43) roam x 96 
+\i (00:05:43) roam x 96
+\i (00:05:43) pick grid 439.1414 229.4099
+\t (00:05:43) last pick:  439.1000 229.4000
+\t (00:05:43) Moving R6 / R_AX400X100031_27_SML2015 / AX400X100031.
+\t (00:05:43) last pick:  438.7850 229.8700
+\i (00:05:44) prepopup 437.8221 231.2004
+\i (00:05:46) pop alt symbol SML2015 
+\t (00:05:46) Placing R6 / R_AX400X100031_27_SML2015 / SML2015 on Top.
+\i (00:05:48) pick grid 435.8431 231.9543
+\t (00:05:48) last pick:  435.8000 232.0000
+\i (00:05:48) pick grid 435.7959 226.0173
+\t (00:05:48) last pick:  435.8000 226.0000
+\t (00:05:48) Moving R5 / R_AX400X100031_27_SML2015 / AX400X100031.
+\t (00:05:48) last pick:  438.7850 226.0600
+\i (00:05:48) prepopup 435.7959 226.0173
+\i (00:05:49) pop alt symbol SML2015 
+\t (00:05:49) Placing R5 / R_AX400X100031_27_SML2015 / SML2015 on Top.
+\i (00:05:51) pick grid 435.9373 225.6875
+\t (00:05:51) last pick:  435.9000 225.7000
+\i (00:05:52) roam x 96 
+\i (00:05:52) roam x 96
+\i (00:05:52) roam x 96 
+\i (00:05:52) roam x 96
+\i (00:05:52) roam x 96 
+\i (00:05:52) roam x 96
+\i (00:05:52) roam x 96 
+\i (00:05:52) roam x 96
+\i (00:05:53) pick grid 456.7639 228.1377
+\t (00:05:53) last pick:  456.8000 228.1000
+\t (00:05:53) Moving R9 / R_AX400X100031_10K_SMDRES / AX400X100031.
+\t (00:05:53) last pick:  462.1000 228.5000
+\i (00:05:53) prepopup 456.7639 228.1848
+\i (00:05:54) pop alt symbol SMDRES 
+\t (00:05:54) Placing R9 / R_AX400X100031_10K_SMDRES / SMDRES on Top.
+\i (00:05:57) prepopup 457.8477 229.7397
+\i (00:05:58) oops 
+\t (00:05:58) last pick:  456.8000 228.1000
+\t (00:05:58) Placing R9 / R_AX400X100031_10K_SMDRES / AX400X100031 on Top.
+\i (00:05:59) prepopup 454.0781 230.8235
+\i (00:05:59) done 
+\i (00:05:59) generaledit 
+\i (00:06:11) pick grid 454.5022 228.8445
+\t (00:06:11) last pick:  454.5000 228.8000
+\i (00:06:11) pick grid 454.0310 229.0801
+\t (00:06:11) last pick:  454.0000 229.1000
+\i (00:06:15) pick grid 447.3872 232.7554
+\t (00:06:15) last pick:  447.4000 232.8000
+\i (00:06:17) done 
+\i (00:06:17) place manual 
+\i (00:06:17) FORM plc_manual placement_list 
+\i (00:06:17) FORM plc_manual categories Components by refdes 
+\i (00:06:17) trapsize 2356
+\i (00:06:18) pick grid 455.0205 229.6455
+\t (00:06:18) last pick:  455.0000 229.6000
+\t (00:06:18) Moving R9 / R_AX400X100031_10K_SMDRES / AX400X100031.
+\t (00:06:18) last pick:  462.1000 228.5000
+\i (00:06:19) prepopup 459.8267 229.0330
+\i (00:06:21) pop alt symbol SMDRES 
+\t (00:06:21) Placing R9 / R_AX400X100031_10K_SMDRES / SMDRES on Top.
+\i (00:06:25) prepopup 457.1409 228.9858
+\i (00:06:25) cancel 
+\i (00:06:26) generaledit 
+\i (00:07:25) zoom out 1 
+\i (00:07:25) setwindow pcb
+\i (00:07:25) zoom out 459.2141 227.0068
+\i (00:07:25) trapsize 4712
+\i (00:07:25) zoom out 1 
+\i (00:07:25) setwindow pcb
+\i (00:07:25) zoom out 458.9314 227.0069
+\i (00:07:25) trapsize 9424
+\i (00:07:25) zoom in 1 
+\i (00:07:25) setwindow pcb
+\i (00:07:25) zoom in 446.6805 234.9229
+\i (00:07:25) trapsize 4712
+\i (00:07:26) roam y 96 
+\i (00:07:26) roam y 96
+\i (00:07:26) roam x -96 
+\i (00:07:26) roam x -96
+\i (00:07:26) zoom in 1 
+\i (00:07:26) setwindow pcb
+\i (00:07:26) zoom in 430.7070 225.4048
+\i (00:07:26) trapsize 2356
+\i (00:07:27) roam x 96 
+\i (00:07:27) roam x 96
+\i (00:07:27) roam x 96 
+\i (00:07:27) roam x 96
+\i (00:07:28) pick grid 446.1150 224.6038
+\t (00:07:28) last pick:  446.1000 224.6000
+\i (00:07:31) done 
+\i (00:07:32) place manual 
+\i (00:07:32) FORM plc_manual placement_list 
+\i (00:07:32) FORM plc_manual categories Components by refdes 
+\i (00:07:32) trapsize 2356
+\i (00:07:33) pick grid 455.7273 222.6719
+\t (00:07:33) last pick:  455.7000 222.7000
+\t (00:07:33) Moving R8 / R_AX400X100031_2.2_SML2015 / AX400X100031.
+\t (00:07:33) last pick:  462.2800 221.6150
+\i (00:07:33) prepopup 458.6016 222.0123
+\i (00:07:35) pop alt symbol SML2015 
+\t (00:07:35) Placing R8 / R_AX400X100031_2.2_SML2015 / SML2015 on Top.
+\i (00:07:35) roam x 96 
+\i (00:07:35) roam x 96
+\i (00:07:37) pick grid 459.3083 222.0123
+\t (00:07:37) last pick:  459.3000 222.0000
+\i (00:07:37) roam x 96 
+\i (00:07:37) roam x 96
+\i (00:07:37) roam x 96 
+\i (00:07:37) roam x 96
+\i (00:07:37) roam y -96 
+\i (00:07:37) roam y -96
+\i (00:07:38) roam x 96 
+\i (00:07:38) roam x 96
+\i (00:07:39) pick grid 471.3709 236.8077
+\t (00:07:39) last pick:  471.4000 236.8000
+\t (00:07:39) Moving C7 / CAPACITOR NON-POL_CPCYL1D225L_4 / CPCYL1D225LS100031.
+\t (00:07:39) last pick:  469.2650 240.0300
+\i (00:07:39) prepopup 471.3709 236.8077
+\i (00:08:44) prepopup 475.7059 239.3050
+\i (00:08:45) oops 
+\t (00:08:45) last pick:  471.4000 236.8000
+\i (00:08:47) roam x -96 
+\i (00:08:47) roam x -96
+\i (00:08:47) roam y 96 
+\i (00:08:47) roam y 96
+\i (00:09:14) refdes R16 
+\t (00:09:14) Placing R16 / R_AX400X100031_10K_SML2015 / AX400X100031 on Top.
+\i (00:09:14) xname_flush 
+\i (00:09:28) prepopup 439.4712 234.9228
+\i (00:09:29) cancel 
+\i (00:09:29) generaledit 
+\i (00:09:29) roam x -96 
+\i (00:09:29) roam x -96
+\i (00:09:29) roam x -96 
+\i (00:09:29) roam x -96
+\i (00:09:30) roam x -96 
+\i (00:09:30) roam x -96
+\i (00:09:30) roam y -96 
+\i (00:09:30) roam y -96
+\i (00:09:30) roam x -96 
+\i (00:09:30) roam x -96
+\i (00:09:30) roam y -96 
+\i (00:09:30) roam y -96
+\i (00:09:30) roam x -96 
+\i (00:09:30) roam x -96
+\i (00:09:30) roam x -96 
+\i (00:09:30) roam x -96
+\i (00:09:30) roam y -96 
+\i (00:09:30) roam y -96
+\i (00:09:31) roam x -96 
+\i (00:09:31) roam x -96
+\i (00:09:31) roam y 96 
+\i (00:09:31) roam y 96
+\i (00:09:31) roam x -96 
+\i (00:09:31) roam x -96
+\i (00:09:32) roam x -96 
+\i (00:09:32) roam x -96
+\i (00:09:32) roam x -96 
+\i (00:09:32) roam x -96
+\i (00:09:32) roam x -96 
+\i (00:09:32) roam x -96
+\i (00:09:32) roam x -96 
+\i (00:09:32) roam x -96
+\i (00:09:32) roam x -96 
+\i (00:09:32) roam x -96
+\i (00:09:33) roam x -96 
+\i (00:09:33) roam x -96
+\i (00:09:33) roam y 96 
+\i (00:09:33) roam y 96
+\i (00:09:33) roam x 96 
+\i (00:09:33) roam x 96
+\i (00:09:33) roam x 96 
+\i (00:09:33) roam x 96
+\i (00:09:34) roam x 96 
+\i (00:09:34) roam x 96
+\i (00:09:34) roam x 96 
+\i (00:09:34) roam x 96
+\i (00:09:34) roam x 96 
+\i (00:09:34) roam x 96
+\i (00:09:34) roam y -96 
+\i (00:09:34) roam y -96
+\i (00:09:34) roam x 96 
+\i (00:09:34) roam x 96
+\i (00:09:35) roam y -96 
+\i (00:09:35) roam y -96
+\i (00:09:35) roam x 96 
+\i (00:09:35) roam x 96
+\i (00:09:36) roam x 96 
+\i (00:09:36) roam x 96
+\i (00:09:36) roam y 96 
+\i (00:09:36) roam y 96
+\i (00:09:36) roam x 96 
+\i (00:09:36) roam x 96
+\i (00:09:36) roam y 96 
+\i (00:09:36) roam y 96
+\i (00:09:37) roam x 96 
+\i (00:09:37) roam x 96
+\i (00:09:37) roam x 96 
+\i (00:09:37) roam x 96
+\i (00:09:38) roam x 96 
+\i (00:09:38) roam x 96
+\i (00:09:39) roam y -96 
+\i (00:09:39) roam y -96
+\i (00:09:39) roam x 96 
+\i (00:09:39) roam x 96
+\i (00:09:40) roam x -96 
+\i (00:09:40) roam x -96
+\i (00:09:40) roam y 96 
+\i (00:09:40) roam y 96
+\i (00:09:40) roam x -96 
+\i (00:09:40) roam x -96
+\i (00:09:40) roam y 96 
+\i (00:09:40) roam y 96
+\i (00:09:43) roam x -96 
+\i (00:09:43) roam x -96
+\i (00:09:43) roam x -96 
+\i (00:09:43) roam x -96
+\i (00:09:43) roam x -96 
+\i (00:09:43) roam x -96
+\i (00:09:43) roam x -96 
+\i (00:09:43) roam x -96
+\i (00:09:44) roam x -96 
+\i (00:09:44) roam x -96
+\i (00:09:44) roam x -96 
+\i (00:09:44) roam x -96
+\i (00:09:44) roam x -96 
+\i (00:09:44) roam x -96
+\i (00:09:44) roam x -96 
+\i (00:09:44) roam x -96
+\i (00:09:45) roam x -96 
+\i (00:09:45) roam x -96
+\i (00:09:45) roam y -96 
+\i (00:09:45) roam y -96
+\i (00:09:45) roam y -96 
+\i (00:09:45) roam y -96
+\i (00:09:45) roam y -96 
+\i (00:09:45) roam y -96
+\i (00:09:45) roam y -96 
+\i (00:09:45) roam y -96
+\i (00:09:45) roam x 96 
+\i (00:09:45) roam x 96
+\i (00:09:46) roam x 96 
+\i (00:09:46) roam x 96
+\i (00:09:46) roam x 96 
+\i (00:09:46) roam x 96
+\i (00:09:50) xdehilite 
+\i (00:09:51) xrefdes R16 
+\t (00:09:51) Can not select unplaced component R16.
+\t (00:09:51) Can not select unplaced component R16.
+\i (00:09:51) xname_flush 
+\i (00:09:51) done 
+\i (00:09:51) generaledit 
+\i (00:09:56) xhilite 
+\i (00:09:56) xrefdes R16 
+\t (00:09:56) Can not select unplaced component R16.
+\t (00:09:56) Can not select unplaced component R16.
+\i (00:09:56) xname_flush 
+\i (00:09:56) done 
+\i (00:09:56) generaledit 
+\i (00:09:59) roam x -96 
+\i (00:09:59) roam x -96
+\i (00:09:59) roam y 96 
+\i (00:09:59) roam y 96
+\i (00:10:00) roam y 96 
+\i (00:10:00) roam y 96
+\i (00:10:00) roam x -96 
+\i (00:10:00) roam x -96
+\i (00:10:00) roam y 96 
+\i (00:10:00) roam y 96
+\i (00:10:00) roam x 96 
+\i (00:10:00) roam x 96
+\i (00:10:00) roam x 96 
+\i (00:10:00) roam x 96
+\i (00:10:00) roam y 96 
+\i (00:10:00) roam y 96
+\i (00:10:01) roam x 96 
+\i (00:10:01) roam x 96
+\i (00:10:01) roam x 96 
+\i (00:10:01) roam x 96
+\i (00:10:02) roam x 96 
+\i (00:10:02) roam x 96
+\i (00:10:02) roam x 96 
+\i (00:10:02) roam x 96
+\i (00:10:02) roam x 96 
+\i (00:10:02) roam x 96
+\i (00:10:02) roam x 96 
+\i (00:10:02) roam x 96
+\i (00:10:03) roam y -96 
+\i (00:10:03) roam y -96
+\i (00:10:03) roam x 96 
+\i (00:10:03) roam x 96
+\i (00:10:03) roam y 96 
+\i (00:10:03) roam y 96
+\i (00:10:08) xdehilite 
+\i (00:10:08) xrefdes R16 
+\t (00:10:08) Can not select unplaced component R16.
+\t (00:10:08) Can not select unplaced component R16.
+\i (00:10:08) xname_flush 
+\i (00:10:08) done 
+\i (00:10:08) generaledit 
+\i (00:10:13) pick grid 456.4341 232.5197
+\t (00:10:13) last pick:  456.4000 232.5000
+\i (00:10:14) done 
+\i (00:10:14) place manual 
+\i (00:10:14) FORM plc_manual placement_list 
+\i (00:10:14) FORM plc_manual categories Components by refdes 
+\i (00:10:14) trapsize 2356
+\i (00:10:16) pick grid 472.2661 239.9646
+\t (00:10:16) last pick:  472.3000 240.0000
+\t (00:10:16) Moving C7 / CAPACITOR NON-POL_CPCYL1D225L_4 / CPCYL1D225LS100031.
+\t (00:10:16) last pick:  469.2650 240.0300
+\i (00:10:17) prepopup 470.4756 240.1059
+\i (00:10:24) prepopup 469.8159 238.4568
+\i (00:10:24) oops 
+\t (00:10:24) last pick:  472.3000 240.0000
+\i (00:10:26) prepopup 471.6064 246.0901
+\i (00:10:28) pick grid 471.4651 248.2104
+\t (00:10:28) last pick:  471.5000 248.2000
+\t (00:10:28) Moving C8 / CAPACITOR NON-POL_CPCYL1D225L_4 / CPCYL1D225LS100031.
+\t (00:10:28) last pick:  470.5350 247.6500
+\i (00:10:28) prepopup 470.1457 247.5036
+\i (00:11:00) prepopup 468.4023 245.9958
+\i (00:11:01) oops 
+\t (00:11:01) last pick:  471.5000 248.2000
+\i (00:11:01) roam y -96 
+\i (00:11:01) roam y -96
+\i (00:11:01) roam y -96 
+\i (00:11:01) roam y -96
+\i (00:11:02) pick grid 459.6382 251.9800
+\t (00:11:02) last pick:  459.6000 252.0000
+\t (00:11:02) Moving D1 / LED_CYLD250LS125031_LED_ / CYLD250LS125031.
+\t (00:11:02) last pick:  458.4700 252.7300
+\i (00:11:03) prepopup 457.7063 253.7234
+\i (00:11:05) pick grid 457.7063 253.7234
+\t (00:11:05) last pick:  457.7000 253.7000
+\i (00:11:07) pick grid 466.3291 253.0637
+\t (00:11:07) last pick:  466.3000 253.1000
+\t (00:11:07) Moving R10 / R_AX400X100031_470_SMDRES / AX400X100031.
+\t (00:11:07) last pick:  462.3000 254.5000
+\i (00:11:07) prepopup 466.3291 253.2051
+\i (00:11:09) pick grid 466.3291 253.1580
+\t (00:11:09) last pick:  466.3000 253.2000
+\i (00:11:11) undo 
+\i (00:11:11) trapsize 2356
+\i (00:11:12) generaledit 
+\i (00:11:13) roam x -96 
+\i (00:11:13) roam x -96
+\i (00:11:14) roam x -96 
+\i (00:11:14) roam x -96
+\i (00:11:14) roam y -96 
+\i (00:11:14) roam y -96
+\i (00:11:14) roam x -96 
+\i (00:11:14) roam x -96
+\i (00:11:15) pick grid 429.4819 258.8594
+\t (00:11:15) last pick:  429.5000 258.9000
+\i (00:11:16) done 
+\i (00:11:16) place manual 
+\i (00:11:17) FORM plc_manual placement_list 
+\i (00:11:17) FORM plc_manual categories Components by refdes 
+\i (00:11:17) trapsize 2356
+\i (00:11:17) pick grid 432.6860 257.1160
+\t (00:11:17) last pick:  432.7000 257.1000
+\t (00:11:17) Moving R15 / R_AX400X100031_220_SMDRES / AX400X100031.
+\t (00:11:17) last pick:  438.7850 255.9050
+\i (00:11:18) prepopup 436.7854 256.4092
+\i (00:11:23) prepopup 436.5969 257.2574
+\i (00:11:24) oops 
+\t (00:11:24) last pick:  432.7000 257.1000
+\i (00:11:25) pick grid 435.9373 251.8387
+\t (00:11:25) last pick:  435.9000 251.8000
+\t (00:11:25) Moving R13 / R_AX400X100031_1K_SMDRES / AX400X100031.
+\t (00:11:25) last pick:  428.6250 251.4600
+\i (00:11:25) prepopup 435.9373 251.8387
+\i (00:11:28) prepopup 429.1050 252.0743
+\i (00:11:30) oops 
+\t (00:11:30) last pick:  435.9000 251.8000
+\i (00:11:30) pick grid 433.8640 247.9749
+\t (00:11:30) last pick:  433.9000 248.0000
+\t (00:11:30) Moving R12 / R_AX400X100031_220_SMDRES / AX400X100031.
+\t (00:11:30) last pick:  428.5000 247.5000
+\i (00:11:30) prepopup 433.8640 247.9749
+\i (00:11:33) prepopup 431.0840 247.5980
+\i (00:11:34) oops 
+\t (00:11:34) last pick:  433.9000 248.0000
+\i (00:11:34) pick grid 433.6284 243.8284
+\t (00:11:34) last pick:  433.6000 243.8000
+\t (00:11:34) Moving R11 / R_AX400X100031_1K_SMDRES / AX400X100031.
+\t (00:11:34) last pick:  428.6250 243.2050
+\i (00:11:34) prepopup 433.6284 243.8284
+\i (00:11:36) prepopup 430.4243 244.1111
+\i (00:11:38) oops 
+\t (00:11:38) last pick:  433.6000 243.8000
+\i (00:12:43) setwindow form.plc_manual
+\i (00:12:43) FORM plc_manual done  
+\i (00:12:43) setwindow pcb
+\i (00:12:43) generaledit 
+\i (00:12:44) exit 
+\e (00:12:44) Do you want to save the changes you made to AVRUSB500.brd?
+\i (00:12:45) fillin no 
+\t (00:12:46)     Journal end - Mon Jul 29 11:32:16 2019

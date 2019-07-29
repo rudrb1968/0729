@@ -1,1 +1,1 @@
-micro_usb.brd
+AVRUSB500_0729.brd

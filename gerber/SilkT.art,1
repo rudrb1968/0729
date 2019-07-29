@@ -3,7 +3,7 @@ G04 Layout Name:  c:/Users/user/Desktop/exam/avrusb500/allegro/micro_usb.brd*
 G04 Film Name:    SilkT*
 G04 File Format:  Gerber RS274X*
 G04 File Origin:  Cadence Allegro 16.6-S034*
-G04 Origin Date:  Fri Jul 19 12:19:21 2019*
+G04 Origin Date:  Fri Jul 19 12:48:04 2019*
 G04 *
 G04 Layer:  REF DES/SILKSCREEN_TOP*
 G04 Layer:  PACKAGE GEOMETRY/SILKSCREEN_TOP*
@@ -16,7 +16,7 @@ G04 Rotation:  0*
 G04 FullContactRelief:  No*
 G04 UndefLineWidth:     0.2000*
 G04 ================== end FILE IDENTIFICATION RECORD ====================*
-%FSLAX25Y25*MOMM*%
+%FSLAX55Y55*MOMM*%
 %IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
 %ADD10C,.203*%
 %ADD11C,.254*%
